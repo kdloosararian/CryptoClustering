@@ -4,7 +4,8 @@ The project includes the following visualizations:
 
 Elbow curve for the original data vs. Elbow curve for the PCA data.
 picture:
-![image](https://github.com/kdloosararian/CryptoClustering/assets/134308829/75f6c74c-e508-4c52-9696-3b1a8a377a92)
+![image](https://github.com/kdloosararian/CryptoClustering/assets/134308829/c1cff3eb-a8e2-4553-9592-2d59cad8dd82)
+
 
 Scatter plot of cryptocurrency clusters based on the original data vs Scatter plot of cryptocurrency clusters based on the PCA data.
 Picture:   
