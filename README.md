@@ -1,3 +1,28 @@
+
+
+The project includes the following visualizations:
+
+Elbow curve for the original data vs. Elbow curve for the PCA data.
+picture:
+![image](https://github.com/kdloosararian/CryptoClustering/assets/134308829/75f6c74c-e508-4c52-9696-3b1a8a377a92)
+
+Scatter plot of cryptocurrency clusters based on the original data vs Scatter plot of cryptocurrency clusters based on the PCA data.
+Picture:   
+
+![image](https://github.com/kdloosararian/CryptoClustering/assets/134308829/f3ed771c-0bfa-47d9-97f7-c798227c7b2b)
+
+Conclusion
+The project analyzes the impact of using fewer features on clustering the data using K-means. Comparing the clustering results of the original data and the PCA data helps to understand the effect of dimensionality reduction on the clustering process.
+
+Dependencies:
+Python
+pandas
+scikit-learn
+hvPlot
+PCS
+StandardScaler
+
+
 # CryptoClustering
 Module 19
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
